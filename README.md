@@ -1,6 +1,6 @@
 # PawCare - Stray Animal Rescue NGO Website
 
-![PawCare Logo](<img width="1900" height="921" alt="Image" src="https://github.com/user-attachments/assets/4dbec653-d0f1-4e80-b953-a0a3a9145749" />)
+![PawCare Logo](https://github.com/user-attachments/assets/4dbec653-d0f1-4e80-b953-a0a3a9145749)
 
 ## 🐾 Project Overview
 
