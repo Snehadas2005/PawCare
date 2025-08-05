@@ -143,7 +143,7 @@ The homepage features live statistics:
 
 ### Technical Excellence
 - **Clean Code Architecture**: Well-organized components and reusable styles
-- **Performance Optimized**: Efficient rendering and minimal bundle size
+- **Performance Optimised**: Efficient rendering and minimal bundle size
 - **Accessibility Compliant**: Proper ARIA labels and keyboard navigation
 - **SEO Ready**: Semantic HTML and meta tags
 
@@ -162,7 +162,7 @@ The homepage features live statistics:
 ## 👨‍💻 Developer
 
 **Sneha Das**  
-Full Stack Developer specializing in React applications and user experience design.
+Full Stack Developer specialising in React applications and user experience design.
 
 ## 🚀 Deployment
 
@@ -170,12 +170,6 @@ Full Stack Developer specializing in React applications and user experience desi
 ```bash
 npm run build
 ```
-
-### Deployment Options
-- **Netlify**: Drag and drop build folder
-- **Vercel**: Connect GitHub repository
-- **Firebase Hosting**: Use Firebase CLI
-- **GitHub Pages**: Enable in repository settings
 
 ## 🔮 Future Enhancements
 
@@ -192,13 +186,6 @@ npm run build
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 🙏 Acknowledgments
 
